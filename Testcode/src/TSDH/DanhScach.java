@@ -153,11 +153,11 @@ public static void in() {
             System.out.println("1.Thêm sách.");
             System.out.println("2.In sách.");
             System.out.println("3.Tìm kiếm sách theo sbd.");
-//            System.out.println("4.Sửa thông tin sách theo tên.");
-//            System.out.println("5.Xóa thông tin sách theo tên.");
-//            System.out.println("6.Sắp xếp sách theo tên.");
-//            System.out.println("7.Đếm số có bìa và không bìa. ");
-//            System.out.println("8.Lưu kết quả vào File.");
+           System.out.println("4.Sửa thông tin sách theo tên.");
+           System.out.println("5.Xóa thông tin sách theo tên.");
+           System.out.println("6.Sắp xếp sách theo tên.");
+           System.out.println("7.Đếm số có bìa và không bìa. ");
+           System.out.println("8.Lưu kết quả vào File.");
             System.out.println("-----------------------------------------------");
             while (true) {
                 try {
