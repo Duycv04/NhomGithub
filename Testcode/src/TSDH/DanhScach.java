@@ -1,12 +1,6 @@
 package TSDH;
-
-
-import B7.Sach;
-import B7.SachVeBIa;
-
 import java.util.ArrayList;
 import java.util.Scanner;
-
 public class DanhScach {
     static ArrayList<ThongTin>tt=new ArrayList<>();
     static ArrayList<KhoiA>ka=new ArrayList<>();
